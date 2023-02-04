@@ -214,8 +214,8 @@ function main() {
         body.style.backgroundImage = `url(${localStorage.getItem("generalBackground")})`;
         generalBackgroundSetting.value = localStorage.getItem("generalBackground");
     } else {
-        body.style.backgroundImage = "url('assets/calvin.jpg')";
-        generalBackgroundSetting.value = "assets/calvin.jpg";
+        body.style.backgroundImage = "url('assets/phos.png')";
+        generalBackgroundSetting.value = "assets/phos.png";
     }
     if (localStorage.getItem("generalBlurIntensity") != null) {
         apexContainer.style.backdropFilter = `blur(${localStorage.getItem("generalBlurIntensity")}px)`;
