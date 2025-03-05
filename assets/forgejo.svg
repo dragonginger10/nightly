@@ -24,10 +24,10 @@
       stroke-width: 25;
     }
     .orange {
-      stroke:#ff6600;
+      stroke:#ffffff;
     }
     .red {
-      stroke:#d40000;
+      stroke:#ffffff;
     }
   </style>
   <g transform="translate(6,6)">
